@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.row {
+    text-align: center;
+}
+
+.op {
+    color: green;
+}
+
+.container {
+    margin-top: 100px;
+    height: 480px;
+    text-align: center;
+}
+
+.display {
+    border: 2px solid black;
+    height: 70px;
+    width: 290px;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 20px;
+    background-color: rgb(39, 42, 43);
+    display: inline-block;
+    border-radius: 50;
+}
+
+button {
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    background-color: rgb(39, 42, 43);
+    font-size: 60;
+    color: white;
+    border-radius: 50px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+
+.equal {
+    height: 70px;
+    width: 145px;
+    background-color: orangered;
+}
